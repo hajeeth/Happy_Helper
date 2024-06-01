@@ -5,6 +5,26 @@
 
 *Note: The Chat Moderation and AI Chat features are disabled in the live demo to avoid incurring OpenAI charges.*
 
+<br>
+
+# ScreenShots
+## Landing Page:
+![home](/screenshots/home.png)
+*Our Web Application's Landing Page*
+
+## Memory Booster:
+![home](/screenshots/game1.png)
+*It is a Memory Testing Game . and it also relax your Brain Functions ,  just give it a try.*
+
+## Creative Canvas:
+![home](/screenshots/game2.png)
+*It is a art space. to showcase your creativity and burst out your stress , release your inner kid.*
+
+## Stress Buster:
+![home](/screenshots/manage stress.png)
+*Stress Buster gives you advice to how to get rid of anxiety and depressions , its good to have a care taking partner.*
+
+<br>
 
 # Features
 - Homepage: Overview of available features.
@@ -31,6 +51,8 @@
   - Backend for AI Chatbot & Peer Chat Moderation
 *The chatbot leverages the power of OpenAI for 24/7 support and assistance. The peer chat feature also integrates a moderation server for enhanced user safety. Find more details here.*
 
+<br>
+
 # Getting Started
 1. Clone the Repository:
 git clone https://github.com/hajeeth/Happy_Helper.git
@@ -39,7 +61,9 @@ git clone https://github.com/hajeeth/Happy_Helper.git
 npm install
 
 3. Start the Development Server:
-npm 
+npm start
+
+<br>
 
 # Code Overview
 ### The app is structured with various components:
